@@ -1,0 +1,25 @@
+[INFO ] 2021-05-14 16:16:05.944 [main] GittiGidiyorPageTest - ---Driver ayağa kaldırılıyor---
+[INFO ] 2021-05-14 16:16:05.951 [main] GittiGidiyorPageTest - ---Driver ayağa kaldırıldı---
+[INFO ] 2021-05-14 16:16:05.952 [main] GittiGidiyorPageTest - ---Gitti Gidiyor Testi Başlıyor---
+[INFO ] 2021-05-14 16:16:05.953 [main] BasePage - ---User Menu'ye hover olunuyor.---
+[INFO ] 2021-05-14 16:16:05.962 [main] BasePage - ---Doğru Sayfada Olduğumuz Kontrol Edildi---
+[INFO ] 2021-05-14 16:16:06.137 [main] BasePage - ---User Menu'ye hover olundu.---
+[INFO ] 2021-05-14 16:16:06.137 [main] BasePage - ---Üye girişi yapılıyor.---
+[INFO ] 2021-05-14 16:16:08.658 [main] BasePage - ---Belirlenen alana denemeaa416@gmail.com Yazıldı.---
+[INFO ] 2021-05-14 16:16:08.859 [main] BasePage - ---Belirlenen alana XDENEME333xx Yazıldı.---
+[INFO ] 2021-05-14 16:16:13.243 [main] BasePage - ---Doğru Sayfada Olduğumuz Kontrol Edildi---
+[INFO ] 2021-05-14 16:16:13.244 [main] BasePage - ---Üye girişi yapıldı.---
+[INFO ] 2021-05-14 16:16:13.244 [main] BasePage - bilgisayar--- ürünü araması yapılıyor---
+[INFO ] 2021-05-14 16:16:13.646 [main] BasePage - ---Belirlenen alana bilgisayar Yazıldı.---
+[INFO ] 2021-05-14 16:16:18.289 [main] BasePage - bilgisayar ürünü aratıldı.
+[INFO ] 2021-05-14 16:16:18.290 [main] BasePage - ---İkinci sayfaya gidiliyor.---
+[INFO ] 2021-05-14 16:16:21.773 [main] BasePage - ---Doğru Linkte Olduğumuz Kontrol Edildi---
+[INFO ] 2021-05-14 16:16:21.773 [main] BasePage - ---İkinci sayfaya gidildi ve kontrol edildi.---
+[INFO ] 2021-05-14 16:16:24.686 [main] BasePage - ---Rastgele ürün seçildi.---
+[INFO ] 2021-05-14 16:16:24.686 [main] BasePage - ---Ürün adeti arttırılıyor.---
+[INFO ] 2021-05-14 16:16:25.039 [main] BasePage - ---Ürün adedi arttırıldı.---
+[INFO ] 2021-05-14 16:16:25.039 [main] BasePage - ---Ürün sepete ekleniyor, sepete gidiliyor ve ürün adedi kontrol ediliyor.---
+[INFO ] 2021-05-14 16:16:26.518 [main] BasePage - ---Ürün sepete eklendi, sepete gidildi ve adet kontrol edildi.---
+[INFO ] 2021-05-14 16:16:26.774 [main] BasePage - ---Sepetteki Ürün Silindi.---
+[INFO ] 2021-05-14 16:16:26.775 [main] GittiGidiyorPageTest - ---Test Başarıyla Bitti---
+[INFO ] 2021-05-14 16:16:26.776 [main] GittiGidiyorPageTest - ---Driver Kapatılıyor---
